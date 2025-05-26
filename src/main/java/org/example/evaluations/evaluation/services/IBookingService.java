@@ -2,7 +2,7 @@ package org.example.evaluations.evaluation.services;
 
 import org.example.evaluations.evaluation.dtos.BookingRequestDto;
 import org.example.evaluations.evaluation.dtos.BookingResponseDto;
-import org.example.evaluations.evaluation.models.Booking;
+//import org.example.evaluations.evaluation.models.Booking;
 
 import java.util.List;
 
